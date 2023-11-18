@@ -38,7 +38,7 @@
 		"info": "Huom! Tämä sovellus on tarkoitettu vain striimaamista varten. PaieCash Play:n katselu tapahtuu aina verkkoselaimen kautta."
 	},
 	"signup": {
-		"welcome": "Tervetuloa SalibandyTV:hen",
+		"welcome": "Tervetuloa Paiecash Play:hen",
 		"createFreeAccount": "Luo ilmainen tili",
 		"firstName": "Etunimi",
 		"firstNamePlaceHolder": "Anna etunimi",
@@ -67,13 +67,14 @@
 	"languageScreen": {
 		"english": "Englanniksi",
 		"finnish": "Suomeksi",
-		"changeLanguage": "Kieli"
+		"changeLanguage": "Kieli",
+		"french": "Ranskan"
 	},
 	"settingsScreen": {
 		"select": "Valitse kielesi"
 	},
 	"setupRootScreen": {
-		"copyRightMessage": "Copyright © 2022 - salibandy Tv. Kaikki oikeudet pidätetään"
+		"copyRightMessage": "Copyright © 2022 - PaieCash Play. Kaikki oikeudet pidätetään"
 	},
 	"setupVideoScreen": {
 		"backSide": "Takakamera",

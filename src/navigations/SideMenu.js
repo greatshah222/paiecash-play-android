@@ -17,6 +17,7 @@ import Container from "../components/common/Container";
 import { SETTINGS, PROFILE, LANGUAGE, LOGIN } from "../constants/routeNames";
 import logoutUser from "../context/actions/logoutAction";
 import Icon from "../components/common/Icon";
+import colors from "../assets/themes/colors";
 
 export default function SideMenu({ authDispatch, navigation }) {
 	// we cant use navigation hook cause we cannot close drawer if we use hook
@@ -133,6 +134,7 @@ const styles = StyleSheet.create({
 		paddingLeft: 30,
 		// backgroundColor: 'red',
 		width: 200,
+		color: colors.black,
 	},
 	container: {
 		paddingTop: 20,

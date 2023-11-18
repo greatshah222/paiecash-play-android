@@ -39,7 +39,7 @@
 		"info": "Note! This application is for streaming only. Watch games via your browser."
 	},
 	"signup": {
-		"welcome": "Welcome to SalibandyTV",
+		"welcome": "Welcome to Paiecash Play",
 		"createFreeAccount": "Create free account",
 		"firstName": "First Name",
 		"firstNamePlaceHolder": "Enter First Name",
@@ -68,13 +68,14 @@
 	"languageScreen": {
 		"finnish": "Finnish",
 		"english": "English",
-		"changeLanguage": "Change language"
+		"changeLanguage": "Change language",
+		"french": "French"
 	},
 	"settingsScreen": {
 		"select": "Select your language"
 	},
 	"setupRootScreen": {
-		"copyRightMessage": "Copyright © 2022 - Salibandy Tv. All right reserved."
+		"copyRightMessage": "Copyright © 2022 -Paiecash Play. All right reserved."
 	},
 	"setupVideoScreen": {
 		"backSide": "Back side",

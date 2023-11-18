@@ -1,0 +1,110 @@
+{
+	"shared": {
+		"submit": "Suivant",
+		"ok": "OK",
+		"cancel": "Annuler",
+		"logoutMessage1": "Déconnexion!",
+		"logoutMessage2": "Êtes-vous sûr de vouloir vous déconnecter?"
+	},
+	"connectionEditor": {},
+	"eventScreen": {
+		"liveGames": "Événements en direct",
+		"upcomingGames": "Prochains matchs",
+		"stream": "Diffuser",
+		"subTitle": "Remarque : vous pouvez diffuser 10 minutes avant le début de l'événement",
+		"liveSubTitle": "Conseil : consultez les instructions d'utilisation de l'application dans le menu avant la diffusion en continu"
+	},
+	"screens": {
+		"games": "Matchs",
+		"login": "Se connecter",
+		"signup": "S'inscrire",
+		"profile": "Profil",
+		"language": "Langues",
+		"settings": "Paramètres",
+		"logout": "Se déconnecter",
+		"video": "Vidéos",
+		"audio": "Audio",
+		"connection": "Connexion",
+		"currentConnections": "Connexions actuelles",
+		"scoreboard": "Tableau des scores",
+		"info": "Info et instructions"
+	},
+	"loginScreen": {
+		"passwordInvalidError": "Veuillez entrer au moins 6 caractères",
+		"emailInvalidError": "Adresse e-mail non trouvée",
+		"requiredError": "Ce champ est requis",
+		"emailError": "Veuillez entrer une adresse e-mail correcte",
+		"passwordError": "Veuillez entrer un mot de passe",
+		"info": "Remarque ! Cette application est destinée uniquement à la diffusion en continu. La visualisation de PaieCash Play se fait toujours via un navigateur web."
+	},
+	"signup": {
+		"welcome": "Bienvenue sur Paiecash Play",
+		"createFreeAccount": "Créer un compte gratuit",
+		"firstName": "Prénom",
+		"firstNamePlaceHolder": "Entrez votre prénom",
+		"lastName": "Nom de famille",
+		"lastNamePlaceHolder": "Entrez votre nom de famille",
+		"email": "E-mail",
+		"emailPlaceHolder": "Entrez votre adresse e-mail",
+		"address": "Adresse",
+		"addressPlaceHolder": "Entrez votre adresse",
+		"password": "Mot de passe",
+		"passwordPlaceHolder": "Entrez votre mot de passe",
+		"alreadyAccount": "Vous avez déjà un compte?"
+	},
+	"login": {
+		"loginHere": "Connectez-vous ici :",
+		"accountSuccess": "Compte créé avec succès",
+		"show": "AFFICHER",
+		"hide": "MASQUER"
+	},
+	"profileScreen": {
+		"addressError": "Veuillez entrer une adresse",
+		"firstNameError": "Veuillez entrer un prénom",
+		"lastNameError": "Veuillez entrer un nom de famille",
+		"emailError": "Veuillez entrer une adresse e-mail"
+	},
+	"languageScreen": {
+		"english": "En anglais",
+		"finnish": "En finnois",
+		"changeLanguage": "Langue",
+		"french": "En français"
+	},
+	"settingsScreen": {
+		"select": "Sélectionnez votre langue"
+	},
+	"setupRootScreen": {
+		"copyRightMessage": "Copyright © 2022 - PaieCash Play. Tous droits réservés"
+	},
+	"setupVideoScreen": {
+		"backSide": "Caméra arrière",
+		"frontSide": "Caméra avant",
+		"landscape": "Paysage",
+		"portait": "Portrait",
+		"off": "Désactivé",
+		"followScreenRotation": "Suivre la rotation de l'écran",
+		"lockWhileBroadcasting": "Verrouiller pendant la diffusion",
+		"initialCamera": "Caméra par défaut",
+		"backCamera": "Caméra arrière",
+		"frontCamera": "Caméra avant",
+		"liveRotation": "Rotation en direct du téléphone",
+		"resolution": "Résolution"
+	},
+	"setupAudio": {
+		"mono": "Mono",
+		"stereo": "Stéréo",
+		"matchInput": "Suivre l'entrée",
+		"audioChannels": "Audio",
+		"bitrate": "Débit binaire"
+	},
+	"scoreboard": {
+		"scoreboard": "Tableau des scores",
+		"period": "Période",
+		"score": "Score",
+		"show": "Afficher",
+		"homeGoals": "Buts à domicile",
+		"guestGoals": "Buts des visiteurs",
+		"start": "Démarrer",
+		"stop": "Arrêter"
+	}
+}

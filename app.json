@@ -1,14 +1,12 @@
 {
-  "expo": {
-    "name": "Salibandy Broadcaster",
-    "slug": "salibandyBroadcaster",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "splash": {
-      "image": "./assets/images/splash.png"
-    }
-  },
-  "name": "Salibandy Broadcaster"
+	"expo": {
+		"name": "PaiecashPlay Broadcaster",
+		"slug": "paiecashplayBroadcaster",
+		"version": "1.0.0",
+		"assetBundlePatterns": ["**/*"],
+		"splash": {
+			"image": "./assets/images/splash.png"
+		}
+	},
+	"name": "Paiecashplay"
 }
