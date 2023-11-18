@@ -1,0 +1,109 @@
+{
+	"shared": {
+		"submit": "Seuraava",
+		"ok": "OK",
+		"cancel": "Peruuta",
+		"logoutMessage1": "Kirjaudu ulos!",
+		"logoutMessage2": "Oletko varma, että haluat kirjautua ulos?"
+	},
+	"connectionEditor": {},
+	"eventScreen": {
+		"liveGames": "Live tapahtumat",
+		"upcomingGames": "Tulevat ottelut",
+		"stream": "Lähetä",
+		"subTitle": "Huom: voit striimata 10min ennen tapahtuman alkua",
+		"liveSubTitle": "Suositus: tutustu valikosta sovelluksen käyttöohjeisiin ennen striimausta"
+	},
+	"screens": {
+		"games": "Ottelut",
+		"login": "Kirjaudu sisään",
+		"signup": "Rekisteröidy",
+		"profile": "Profiili",
+		"language": "Kielet",
+		"settings": "Asetukset",
+		"logout": "Kirjaudu ulos",
+		"video": "Videot",
+		"audio": "Ääni",
+		"connection": "Yhteys",
+		"currentConnections": "Nykyiset yhteydet",
+		"scoreboard": "Tulostaulu",
+		"info": "Info ja ohjeet"
+	},
+	"loginScreen": {
+		"passwordInvalidError": "Anna vähintään 6 merkkiä",
+		"emailInvalidError": "Sähköpostiosoitetta ei löytynyt",
+		"requiredError": "Tämä kenttä on vaadituu",
+		"emailError": "Anna oikea sähköpostiosoite",
+		"passwordError": "Anna salasana",
+		"info": "Huom! Tämä sovellus on tarkoitettu vain striimaamista varten. PaieCash Play:n katselu tapahtuu aina verkkoselaimen kautta."
+	},
+	"signup": {
+		"welcome": "Tervetuloa SalibandyTV:hen",
+		"createFreeAccount": "Luo ilmainen tili",
+		"firstName": "Etunimi",
+		"firstNamePlaceHolder": "Anna etunimi",
+		"lastName": "Sukunimi",
+		"lastNamePlaceHolder": "Anna sukunimi",
+		"email": "Sähköposti",
+		"emailPlaceHolder": "Anna sähköposti",
+		"address": "Lähiosoite",
+		"addressPlaceHolder": "Anna lähiosoite",
+		"password": "Salasana",
+		"passwordPlaceHolder": "Anna salasana",
+		"alreadyAccount": "Onko sinulla jo tili?"
+	},
+	"login": {
+		"loginHere": "Kirjaudu täällä:",
+		"accountSuccess": "Tili luotu onnistuneesti",
+		"show": "NÄYTÄ",
+		"hide": "PIILOTA"
+	},
+	"profileScreen": {
+		"addressError": "Anna osoite",
+		"firstNameError": "Anna etunimi",
+		"lastNameError": "Anna sukunimi",
+		"emailError": "Anna sähköpostiosoite"
+	},
+	"languageScreen": {
+		"english": "Englanniksi",
+		"finnish": "Suomeksi",
+		"changeLanguage": "Kieli"
+	},
+	"settingsScreen": {
+		"select": "Valitse kielesi"
+	},
+	"setupRootScreen": {
+		"copyRightMessage": "Copyright © 2022 - salibandy Tv. Kaikki oikeudet pidätetään"
+	},
+	"setupVideoScreen": {
+		"backSide": "Takakamera",
+		"frontSide": "Etukamera",
+		"landscape": "Vaaka",
+		"portait": "Pysty",
+		"off": "Pois päältä",
+		"followScreenRotation": "Seuraa ruudun asentoa",
+		"lockWhileBroadcasting": "Lukitse lähetettäessä",
+		"initialCamera": "Oletuskamera",
+		"backCamera": "Takakamera",
+		"frontCamera": "Etukamera",
+		"liveRotation": "Käännä kamera puhelimen Live tilassa",
+		"resolution": "Resoluutio"
+	},
+	"setupAudio": {
+		"mono": "Mono",
+		"stereo": "Stereo",
+		"matchInput": "Seuraa lähdettä",
+		"audioChannels": "Ääni",
+		"bitrate": "Bittinopeus"
+	},
+	"scoreboard": {
+		"scoreboard": "Tulostaulu",
+		"period": "Erä",
+		"score": "Pisteet",
+		"show": "Näytä",
+		"homeGoals": "Koti maalit",
+		"guestGoals": "Vieras maalit",
+		"start": "Päälle",
+		"stop": "lopettaa"
+	}
+}

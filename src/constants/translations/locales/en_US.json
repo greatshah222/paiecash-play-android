@@ -1,0 +1,110 @@
+{
+	"shared": {
+		"submit": "Submit",
+		"ok": "ok",
+		"cancel": "cancel",
+		"logoutMessage1": "Logout !",
+		"logoutMessage2": "Are you sure you want to logout?"
+	},
+	"connectionEditor": {},
+	"eventScreen": {
+		"liveGames": "Live games",
+		"upcomingGames": "Upcoming games",
+		"stream": "Stream",
+		"subTitle": "Note: You will be able to stream the game 10 minutes before the game.",
+		"liveSubTitle": "Recommendation: Consult the application instructions in the menu before streaming."
+	},
+	"screens": {
+		"games": "Games",
+		"login": "Login",
+		"signup": "Signup",
+		"profile": "Profile",
+		"language": "Language",
+		"settings": "Settings",
+		"logout": "Logout",
+		"video": "Video",
+		"audio": "Audio",
+		"scoreboard": "Scoreboard",
+
+		"connection": "Connection",
+		"currentConnections": "Current Connections",
+		"info": "Info & help"
+	},
+	"loginScreen": {
+		"passwordInvalidError": "Please enter more than 6 character",
+		"emailInvalidError": "Please enter a valid email",
+		"requiredError": "This Field is required",
+		"emailError": "Please Enter an email",
+		"passwordError": "Please Enter a password",
+		"info": "Note! This application is for streaming only. Watch games via your browser."
+	},
+	"signup": {
+		"welcome": "Welcome to SalibandyTV",
+		"createFreeAccount": "Create free account",
+		"firstName": "First Name",
+		"firstNamePlaceHolder": "Enter First Name",
+		"lastName": "Last Name",
+		"lastNamePlaceHolder": "Enter Last Name",
+		"email": "Email",
+		"emailPlaceHolder": "Enter Email",
+		"address": "Address",
+		"addressPlaceHolder": "Enter Address",
+		"password": "Password",
+		"passwordPlaceHolder": "Enter Password",
+		"alreadyAccount": "Already Have a account ?"
+	},
+	"login": {
+		"loginHere": "Please login here",
+		"accountSuccess": "Account created successfully",
+		"show": "SHOW",
+		"hide": "HIDE"
+	},
+	"profileScreen": {
+		"addressError": "Please add an address",
+		"firstNameError": "Please Add a first name",
+		"lastNameError": "Please Add a last name",
+		"emailError": "Please Add an email"
+	},
+	"languageScreen": {
+		"finnish": "Finnish",
+		"english": "English",
+		"changeLanguage": "Change language"
+	},
+	"settingsScreen": {
+		"select": "Select your language"
+	},
+	"setupRootScreen": {
+		"copyRightMessage": "Copyright © 2022 - Salibandy Tv. All right reserved."
+	},
+	"setupVideoScreen": {
+		"backSide": "Back side",
+		"frontSide": "Front side",
+		"landscape": "Landscape",
+		"portait": "Portrait",
+		"off": "Off",
+		"followScreenRotation": "Follow screen rotation",
+		"lockWhileBroadcasting": "Lock while broadcasting",
+		"initialCamera": "Initial camera",
+		"backCamera": "Back camera",
+		"frontCamera": "Front camera",
+		"liveRotation": "Live rotation",
+		"resolution": "Resolution"
+	},
+	"setupAudio": {
+		"mono": "Mono",
+		"stereo": "Stereo",
+		"matchInput": "Match input",
+		"audioChannels": "Audio channels",
+		"bitrate": "Bitrate"
+	},
+	"scoreboard": {
+		"scoreboard": "Scoreboard",
+		"period": "Period",
+		"score": "Score",
+		"show": "Show",
+		"homeGoals": "Home Goals",
+		"guestGoals": "Guest Goals",
+		"start": "Start",
+		"stop": "Stop"
+	}
+}
